@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Program Files (x86)\\CodeBlocks\\MinGW\\bin\\g++.exe",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/MinHook/include",
+        "${workspaceFolder}/MinHook/src",
+        "${workspaceFolder}/MinHook/src/hde"
+    ]
+}
